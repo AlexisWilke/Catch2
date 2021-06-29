@@ -115,7 +115,7 @@ Expects that no exception is thrown during evaluation of the expression.
 * **REQUIRE_THROWS(** _expression_ **)** and  
 * **CHECK_THROWS(** _expression_ **)**
 
-Expects that an exception (of any type) is be thrown during evaluation of the expression.
+Expects that an exception (of any type) is thrown during evaluation of the expression.
 
 * **REQUIRE_THROWS_AS(** _expression_, _exception type_ **)** and  
 * **CHECK_THROWS_AS(** _expression_, _exception type_ **)**
